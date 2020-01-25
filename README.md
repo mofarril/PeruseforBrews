@@ -8,7 +8,7 @@ Allow the app to use your location to find the 5 closest breweries to you.
 
 ## Try it
 
-https://mofarril.github.io/Project-One/
+ https://mofarril.github.io/PeruseforBrews/
 
 ## Built With
 
