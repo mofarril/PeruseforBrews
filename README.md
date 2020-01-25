@@ -24,6 +24,7 @@ tomtom API
 Yelp API
 
 ## Authors
+
   Madison O'Farril - Front End - https://github.com/mofarril
   Pat Perry - Back End Functionality - https://github.com/RisingPhx116
   Morgan Styers - Front End - https://github.com/morganstyers
