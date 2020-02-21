@@ -2,9 +2,14 @@
 
 Peruse for brews is a front end application utilizing API calls to bring the user information about the closest breweries in their area. 
 
+![](https://github.com/mofarril/PeruseforBrews/blob/master/images/home.PNG)
+
 ## How to use 
 
 Allow the app to use your location to find the 5 closest breweries to you.
+
+![](https://github.com/mofarril/PeruseforBrews/blob/master/images/ageVerify.PNG)
+
 
 ## Try it
 
